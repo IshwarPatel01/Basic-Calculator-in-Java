@@ -26,6 +26,8 @@ public class SimpleCalculator {
         return a / b;
     }
 
+    public static 
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
